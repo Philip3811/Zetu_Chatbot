@@ -39,7 +39,6 @@ multidict==6.0.4
 mypy-extensions==1.0.0
 nest-asyncio==1.5.6
 numexpr==2.8.4
-numpy==1.25.1
 openai==0.27.8
 openapi-schema-pydantic==1.2.4
 packaging==23.1
