@@ -11,7 +11,7 @@ DEBUG = True
 
 
 
-DB_HOST = os.getenv('DB_HOST','https://938b-105-162-41-163.ngrok-free.app:3306')
+DB_HOST = os.getenv('DB_HOST','https://938b-105-162-41-163.ngrok-free.app')
 DB_USER = os.getenv('DB_USER','root')
 DB_PASSWORD = os.getenv('DB_PASSWORD','Iknowall38?')
 DB_NAME = os.getenv('DB_NAME','chatbot')
